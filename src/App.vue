@@ -1,12 +1,12 @@
-<!-- App.vue -->
 <template>
   <div id="app">
     <router-view />
+    <!-- This displays the current route's component or layout -->
   </div>
 </template>
 
 <script setup lang="ts">
-// No need for imports here if layouts are handled in router
+// No additional logic is needed here
 </script>
 
 <style>
